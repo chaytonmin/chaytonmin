@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chaytonmin
 - 👀 I’m interested BEV, MAE in autonomous driving.
-- 🌱 I’m currently learning Diffusion models.
+- 🌱 I’m currently learning Continuous Learning.
 - 💞️ I’m looking to collaborate on autonomous driving
 - 📫 How to reach me: Wechat:i1231231, Email:minchen@stu.pku.edu.cn
 
