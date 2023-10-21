@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chaytonmin
+- 👋 Hi, I’m Min Chen
 - 👀 I’m interested BEV, MAE in autonomous driving.
 - 🌱 I’m currently learning Continuous Learning.
 - 💞️ I’m looking to collaborate on autonomous driving
