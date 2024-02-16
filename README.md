@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Min Chen
-- 👀 I’m interested BEV, MAE in autonomous driving.
+- 👀 I’m interested in autonomous driving.
 - 🌱 I’m currently learning Continuous Learning.
 - 💞️ I’m looking to collaborate on autonomous driving
 - 📫 How to reach me: Wechat:ungeao, Email:minchen@stu.pku.edu.cn
