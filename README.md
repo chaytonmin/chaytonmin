@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Min Chen
 - 👀 I’m interested in autonomous driving.
-- 🌱 I’m currently learning Continuous Learning.
+- 🌱 I’m currently learning Embodied Intelligence.
 - 💞️ I’m looking to collaborate on autonomous driving
 
 <!---
